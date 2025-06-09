@@ -44,7 +44,7 @@ exibir_cabecalho
 # Exibe o menu de opções
 echo "Pressione a tecla para o comando que desejar abaixo"
 echo "1. listar arquivos e diretórios de determinado diretorio"
-echo "2. Encontre no sistem de arquivos do usuario o Arquivo"
+echo "2. Encontre no sistema de arquivos do usuario o Arquivo"
 echo "3. Verificar espaço em disco"
 echo "4. Exibir usuarios logados"
 echo "5. finaliza o programa"
